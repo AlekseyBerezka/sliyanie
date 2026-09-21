@@ -1,0 +1,22 @@
+# Видео с лицами (приватность)
+demo/*.mp4
+*.mp4
+*.avi
+*.mov
+
+# Модели
+models/
+*.task
+
+# Данные
+notes/
+output/
+logs/
+*.db
+*.wav
+
+# Python
+__pycache__/
+*.py[cod]
+*.bak
+*.bak.*
